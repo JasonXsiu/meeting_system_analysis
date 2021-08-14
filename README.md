@@ -12,8 +12,8 @@ This is a simulation case; my role is conducted as a Business Analyst for Quatro
 
 ## How is it conducted?
 
-1.1 Elicit the business requirements for a system from an interview with Charly (Manager)
-1.2 Analyse pertinient stakeholders participated in a project using power/level of interest matrix. 
+#### 1.1 Elicit the business requirements for a system from an interview with Charly (Manager)
+#### 1.2 Analyse pertinient stakeholders participated in a project using power/level of interest matrix. 
 #### Deliverables of Part one : Task_one_REQUIREMENT_STAKEHOLDER.PDF
 
 #### 2.1
