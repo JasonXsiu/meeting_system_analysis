@@ -4,9 +4,9 @@
 This is a simulation case of System Analysis for a university PHD Research Meeting system; my role is conducted as a Business Analyst for Quatro J Ptv. Ltd  to conduct a 
 
 ## Scenario
-(Due to the confidentiality, I cannot reveal the name of the company involved in this project.)
+(Due to the confidentiality, we cannot reveal the name of the company involved in this project.)
 
-## Why
+## Why 
 
 
 
@@ -21,11 +21,11 @@ This is a simulation case of System Analysis for a university PHD Research Meeti
 ##### 2.1. Requirements Modelling & Documentation
 ##### 2.2. Gather data, using analytical thinking and communication skills to modelling, and make documentation. Of which the aim is to identify and confirm user requirements for a system accurately using data gathering techniques.
 ### Deliverables of Part two : 
-##### - user story maps
-##### - user stories
-##### - use case diagrams
-##### - activity diagrams
-##### - domain modelling
+##### 1. User story maps
+##### 2. User stories
+##### 3. Use case diagrams
+##### 4. Activity diagrams
+##### 5. Domain modelling
 ##### File name for Part two : Task_two_ALL_IN_ONE.PDF
 ##### Purpose of doing this : Modelling based on user requirement
 
