@@ -34,4 +34,4 @@ This is a simulation case of System Analysis for a university PHD Research Meeti
 #### 3. Prototyping, Usability & Interface Design 
 #### 3.1. Develop a persona to understand the value of user
 #### 3.2. Develop a prototype (medium fidelity) of the interface using usability and interface design principles. The features are functional requirements. 
-#### Purpose of doing this : Confirm user requirement
+##### Purpose of doing this : Confirm user requirement
