@@ -16,4 +16,14 @@ This is a simulation case; my role is conducted as a Business Analyst for Quatro
 #### 1.2. Analyse pertinient stakeholders participated in a project using power/level of interest matrix. 
 #### Deliverables of Part one : Task_one_REQUIREMENT_STAKEHOLDER.PDF
 
-#### 2.1.
+#### 2.1. Requirements Modelling & Documentation
+#### 2.2. Gather data, using analytical thinking and communication skills to modelling, and make documentation. Of which the aim is to identify and confirm user requirements for a system accurately using data gathering techniques.
+
+#### Deliverables of Part two : 
+#### - user story maps
+#### - user stories
+#### - use case diagrams
+#### - activity diagrams
+#### - domain modelling
+#### File name for Part two : Task_two_ALL_IN_ONE.PDF
+
