@@ -1,12 +1,7 @@
 # Quatro J Ptv. Ltd 
 
 ## What is this ?
-This is a simulation case of System Analysis for a university PHD Research Meeting system; my role is conducted as a Business Analyst for Quatro J Ptv. Ltd  to conduct a 
-
-## Scenario
-(Due to the confidentiality, we cannot reveal the name of the company involved in this project.)
-
-## Why 
+This is a simulation case of System Analysis for a university PHD Research Meeting system; my role is conducted as a Business Analyst for Quatro J Ptv. Ltd. To view the Scenario, please go to ### Scenario 
 
 
 
@@ -37,3 +32,19 @@ This is a simulation case of System Analysis for a university PHD Research Meeti
 #### Purpose of doing this : Confirm user requirement
 #### File name for Part three : Task_three_ALL_IN_ONE.PDF
 
+
+## Scenario
+(Due to the confidentiality, we cannot reveal the name of the company involved in this project, therefore named XXXX.) 
+
+XXXX Graduate Research is a subsidiary organisation of Monash University tasked with 
+managing the progress of student’s PhD studies. They aim to provide support to students to 
+facilitate the successful completion of their PhDs. There are currently 78 students enrolled 
+in the program. Charli, the current head of the team, has approached our development 
+team with concerns regarding XXXX’s existing paper-based system for scheduling PhD 
+progress review meetings, called “milestones”, with students.  
+
+ 
+#### Problem : The tedious task to make reservation and manage meeting for the student milestone meeting.
+##### current system includes a mix of excel spreadsheets and paper forms to organise  meetings with email as the primary means of communication between attendees. The  existing process is disorganised and time consuming for staff. During the busiest times of  year milestone meetings are often delayed or forgotten. Staff and candidates do not receive notifications and meeting invitations in a timely manner. Students’ documentation is often  lost within the large number of other emails received by staff.
+
+##### With the above, Charli would like our team to develop a single centralised digital system to organise the scheduling of meetings, reminder notifications for attendees and student documentatio
